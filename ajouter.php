@@ -1,3 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title></title>
+    <link href="bootstrap/css/bootstrap.min.css"  rel="stylesheet" >
+</head>
+<body>
+<div class="container">
 <div class="well">
      <h1> Gestion des Livres</h1>
 </div>
@@ -15,3 +24,6 @@
          <button type="submit" class="btn btn-default">Enregistrer</button>
     </form>
 </div>
+</div>
+</body>
+</html>

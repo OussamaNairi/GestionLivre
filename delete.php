@@ -1,6 +1,6 @@
 <?php
 require_once("functions.php");
 $id=$_GET["id"];
-deletLivre($id);
+deleteLivre($id);
 header("location:gestion.php");
 ?>
